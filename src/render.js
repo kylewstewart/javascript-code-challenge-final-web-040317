@@ -1,5 +1,5 @@
 
-function addPhoto(photo, comment) {
+function renderPhoto(photo, comment) {
     $('#photo-list').append(`
           <div class="card">
             <div class="card-image">
